@@ -16,7 +16,7 @@ INTEGRAL_validationscript.R - This reproduces main tables and figures related to
 
 We do not present scripts for the other considered models (best AUC, best AIC in Asia, best AUC in Aisa) since they were not selected as the main INTEGRAL-Risk model. We do not present scripts for eTables 1-5, since they are largely descriptive.
 
-## Key variables:
-# LC_event: lung cancer event (0,1)
-# t0: enrolment time
-# tevent: follow-up time until lung cancer diagnosis, death, or end of follow-up (3 years) 
+Key variables:
+LC_event: lung cancer event (0,1)
+t0: enrollment time
+tevent: follow-up time until lung cancer diagnosis, death, or end of follow-up (3 years) 
